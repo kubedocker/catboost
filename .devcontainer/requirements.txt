@@ -1,0 +1,11 @@
+catboost
+drain3
+gensim
+lightgbm
+nltk
+numpy
+pandas
+scikit_learn
+scipy
+tqdm
+tsfresh
